@@ -1,1 +1,3 @@
-# dx_skulls
+# Template
+
+A template folder structure for projects
